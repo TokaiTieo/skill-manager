@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Manager"
+  short_description: "Audit, validate, and safely maintain Codex skills"
+  default_prompt: "Use $skill-manager to audit my installed skills and propose a maintenance plan."
